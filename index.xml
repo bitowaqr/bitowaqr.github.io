@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://bitowaqr.github.io/about_me/</link>
+      <atom:link href="https://bitowaqr.github.io/about_me/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2019</copyright><lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bitowaqr.github.io/about_me/img/icon-192.png</url>
+      <title></title>
+      <link>https://bitowaqr.github.io/about_me/</link>
+    </image>
+    
+    <item>
+      <title>Social tariffs and democratic choice</title>
+      <link>https://bitowaqr.github.io/about_me/project/dem_soc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/dem_soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising parkrun participation</title>
+      <link>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dutch flu trend</title>
+      <link>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Schneider PP&lt;sup&gt;1,2&lt;/sup&gt;, van Gool CJAW&lt;sup&gt;3&lt;/sup&gt;, Spreeuwenberg P&lt;sup&gt;4&lt;/sup&gt;, Hooiveld M&lt;sup&gt;4&lt;/sup&gt;, Donker GA&lt;sup&gt;4&lt;/sup&gt;, Barnett DJ&lt;sup&gt;1&lt;/sup&gt;, Paget J&lt;sup&gt;4&lt;/sup&gt;.
+&lt;p&gt;&lt;small&gt;
+&lt;sup&gt;1&lt;/sup&gt; Faculty of Health, Medicine and Life Sciences, Maastricht University;
+&lt;sup&gt;2&lt;/sup&gt; School of Health and Related Research, University of Sheffield;
+&lt;sup&gt;3&lt;/sup&gt; Nivel (Netherlands Institute of Health Service Research);&lt;br /&gt;
+&lt;sup&gt;4&lt;/sup&gt; School CAPHRI, Maastricht University
+&lt;/p&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;in-the-first-stage-of-the-project-i-investigated-whether-wikipedia-page-views-were-correlated-with-the-incidence-of-influenza-in-several-countries-around-the-world&#34;&gt;In the first stage of the project, I investigated whether Wikipedia page views were correlated with the incidence of influenza in several countries around the world.&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/projectflutrend/pft&#34; target=&#34;_blank&#34;&gt;Code and data repository&lt;/a&gt;&lt;strong&gt;[Deprecated!]&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;subsequently-i-included-google-search-queries-and-used-several-statical-learning-techniques-to-estimate-the-incidence-of-influenza-in-germany-in-near-real-time&#34;&gt;Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2/raw/master/weon.jpg&#34; target=&#34;_blank&#34;&gt;Conference poster for WEON 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projectflutrend.github.io/&#34; target=&#34;_blank&#34;&gt;A tutorial on digital epidemiology in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2&#34; target=&#34;_blank&#34;&gt;Data &amp;amp; code repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;finally-we-piloted-the-method-during-the-2017-2018-influenza-like-illness-epidemic-in-the-netherlands&#34;&gt;Finally, we piloted the method during the 2017-2018 influenza-like illness epidemic in the Netherlands.&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;: Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. &lt;a href=&#34;https://doi.org/10.1101/440867&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/440867&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Publication: tbc&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cost trajectories</title>
+      <link>https://bitowaqr.github.io/about_me/project/cost-trajectories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/cost-trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing and the quality of care in German hospitals</title>
+      <link>https://bitowaqr.github.io/about_me/project/quape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/quape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bitowaqr.github.io/about_me/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
