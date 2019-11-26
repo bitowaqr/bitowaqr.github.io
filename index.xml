@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://bitowaqr.github.io/about_me/</link>
-      <atom:link href="https://bitowaqr.github.io/about_me/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bitowaqr.github.io/</link>
+      <atom:link href="https://bitowaqr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2019</copyright><lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bitowaqr.github.io/about_me/img/icon-192.png</url>
+      <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title></title>
-      <link>https://bitowaqr.github.io/about_me/</link>
+      <link>https://bitowaqr.github.io/</link>
     </image>
     
     <item>
       <title>Social tariffs and democratic choice</title>
-      <link>https://bitowaqr.github.io/about_me/project/dem_soc/</link>
+      <link>https://bitowaqr.github.io/project/dem_soc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/dem_soc/</guid>
+      <guid>https://bitowaqr.github.io/project/dem_soc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimising parkrun participation</title>
-      <link>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</link>
+      <link>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</guid>
+      <guid>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dutch flu trend</title>
-      <link>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</link>
+      <link>https://bitowaqr.github.io/project/dutch-flu-trend/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</guid>
+      <guid>https://bitowaqr.github.io/project/dutch-flu-trend/</guid>
       <description>
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -79,25 +79,25 @@
     
     <item>
       <title>Cost trajectories</title>
-      <link>https://bitowaqr.github.io/about_me/project/cost-trajectories/</link>
+      <link>https://bitowaqr.github.io/project/cost-trajectories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/cost-trajectories/</guid>
+      <guid>https://bitowaqr.github.io/project/cost-trajectories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Staffing and the quality of care in German hospitals</title>
-      <link>https://bitowaqr.github.io/about_me/project/quape/</link>
+      <link>https://bitowaqr.github.io/project/quape/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/quape/</guid>
+      <guid>https://bitowaqr.github.io/project/quape/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://bitowaqr.github.io/about_me/home/</link>
+      <link>https://bitowaqr.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/home/</guid>
+      <guid>https://bitowaqr.github.io/home/</guid>
       <description></description>
     </item>
     
