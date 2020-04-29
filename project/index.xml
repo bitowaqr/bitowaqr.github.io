@@ -5,7 +5,7 @@
     <link>https://bitowaqr.github.io/project/</link>
       <atom:link href="https://bitowaqr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Social tariffs and democratic choice</title>
       <link>https://bitowaqr.github.io/project/dem_soc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/dem_soc/</guid>
       <description>
 
@@ -28,7 +28,7 @@
     <item>
       <title>TTO utility rescaling</title>
       <link>https://bitowaqr.github.io/project/scaling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/scaling/</guid>
       <description>
 
@@ -41,7 +41,7 @@
     <item>
       <title>parkrun participation</title>
       <link>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</guid>
       <description>
 
@@ -56,7 +56,7 @@
     <item>
       <title>Dutch flu trend</title>
       <link>https://bitowaqr.github.io/project/dutch-flu-trend/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/dutch-flu-trend/</guid>
       <description>
 
@@ -105,7 +105,7 @@
     <item>
       <title>Cost trajectories</title>
       <link>https://bitowaqr.github.io/project/cost-trajectories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/cost-trajectories/</guid>
       <description>
 
@@ -132,7 +132,7 @@
     <item>
       <title>fitbitR</title>
       <link>https://bitowaqr.github.io/project/fitbitr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/fitbitr/</guid>
       <description>
 
@@ -145,7 +145,7 @@
     <item>
       <title>Staffing and the quality of care in German hospitals</title>
       <link>https://bitowaqr.github.io/project/quape/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/quape/</guid>
       <description></description>
     </item>

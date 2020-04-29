@@ -19,14 +19,6 @@
       <guid>https://bitowaqr.github.io/authors/admin/</guid>
       <description>
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;about-me&#34;&gt;about me&lt;/h2&gt;
-
-&lt;p&gt;I am a PhD student in the Wellcome Trust doctoral training center for public health, economics, and decision science at the School of Health and Related Research (ScHARR), University of Sheffield.&lt;/p&gt;
-
-&lt;p&gt;My background is in clinical medicine and health sciences: I am a physician by training, and completed a doctoral degree in medicine at the Institute for Health Systems Research, University of Witten/Herdecke, Germany. I also hold a research masters degree in health sciences from Maastricht University, the Netherlands. Before I joined ScHARR in September 2018, I gained experience working on research projects in a range of different areas, including health technology assessment, digital disease surveillance, health service research, clinical drug trials, and global health policy.&lt;/p&gt;
-
 &lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
 
 &lt;script async src=&#34;https://www.googletagmanager.com/gtag/js?id=UA-147153076-1&#34;&gt;&lt;/script&gt;
@@ -37,6 +29,14 @@
 
   gtag(&#39;config&#39;, &#39;UA-147153076-1&#39;);
 &lt;/script&gt;
+
+&lt;h1 id=&#34;about-me&#34;&gt;about me&lt;/h1&gt;
+
+&lt;p&gt;I am a PhD student in the Wellcome Trust doctoral training center for public health, economics, and decision science at the School of Health and Related Research (ScHARR), University of Sheffield.&lt;/p&gt;
+
+&lt;p&gt;For my PhD I work on normative issues and empirical methods in the valuation of health (see &lt;a href=&#34;#projects&#34;&gt;discussion papers&lt;/a&gt; below).&lt;/p&gt;
+
+&lt;p&gt;My background is in clinical medicine and health sciences: I am a physician by training, and completed a doctoral degree in medicine at the Institute for Health Systems Research, University of Witten/Herdecke, Germany. I also hold a research masters degree in health sciences from Maastricht University, the Netherlands. Before I joined ScHARR in September 2018, I gained experience working on research projects in a range of different areas, including health technology assessment, digital disease surveillance, health service research, clinical drug trials, and global health policy.&lt;/p&gt;
 </description>
     </item>
     
