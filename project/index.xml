@@ -5,7 +5,7 @@
     <link>https://bitowaqr.github.io/project/</link>
       <atom:link href="https://bitowaqr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,31 +13,11 @@
     </image>
     
     <item>
-      <title>On the unethical implications of &#39;States Worse Than Dead&#39;</title>
-      <link>https://bitowaqr.github.io/project/luol/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/project/luol/</guid>
+      <title>R and R Shiny for HTA</title>
+      <link>https://bitowaqr.github.io/project/r-and-shiny-for-cem/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/project/r-and-shiny-for-cem/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Social tariffs and democratic choice</title>
-      <link>https://bitowaqr.github.io/project/dem_soc/</link>
-      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/project/dem_soc/</guid>
-      <description>&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
-&lt;p&gt;In economic evaluations of health technologies, health outcomes are commonly measured in terms of QALYs. QALYs are the product of time and health-related quality of life. Health-related quality of life, in turn, is determined by a social tariff, which is supposed to reflect the public&amp;rsquo;s preference over health states. This paper argues that, because of the tariff&amp;rsquo;s role in the societal decision making process, it should not be understood as merely an operational (statistical) definition of health, but as a major instrument of democratic participation. I outline what implications this might have for both the method used to aggregate individual preferences, and the set of individuals whose preferences should count. Alternative tariff specifications and decision rules are explored, and future research directions are proposed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TTO utility rescaling</title>
-      <link>https://bitowaqr.github.io/project/scaling/</link>
-      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/project/scaling/</guid>
-      <description>&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
-&lt;p&gt;The time trade-off (TTO) method is widely used to elicit individual preferences over (EQ-5D 3L, 5L, and Y) health states. Resulting utility values, measured on a scale that is anchored at full health and dead, are commonly aggregated across individuals, in order to derive a social value set. Here, we argue that this aggregation procedure is problematic, because it fails to take into account that TTO utility values are not only determined by an individual’s preference for the quality, but also for the quantity of life. As a consequence, when health state utilities are aggregated across different individuals, individuals with a wider range of utility values have – simply for arithmetic reasons – more weight in the estimation of the social value set. Inspired by relative utilitarianism, we propose an alternative aggregation procedure, to equalise individuals’ weights in the estimation of social health state values. We apply the alternative procedure to an EQ-5D 3L data set and compare the results against the conventional social tariff.&lt;/p&gt;
-</description>
     </item>
     
     <item>
