@@ -5,7 +5,7 @@
     <link>https://bitowaqr.github.io/project/</link>
       <atom:link href="https://bitowaqr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,14 +13,19 @@
     </image>
     
     <item>
+      <title>On the unethical implications of &#39;States Worse Than Dead&#39;</title>
+      <link>https://bitowaqr.github.io/project/luol/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/project/luol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social tariffs and democratic choice</title>
       <link>https://bitowaqr.github.io/project/dem_soc/</link>
       <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/dem_soc/</guid>
-      <description>
-
-&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
-
+      <description>&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
 &lt;p&gt;In economic evaluations of health technologies, health outcomes are commonly measured in terms of QALYs. QALYs are the product of time and health-related quality of life. Health-related quality of life, in turn, is determined by a social tariff, which is supposed to reflect the public&amp;rsquo;s preference over health states. This paper argues that, because of the tariff&amp;rsquo;s role in the societal decision making process, it should not be understood as merely an operational (statistical) definition of health, but as a major instrument of democratic participation. I outline what implications this might have for both the method used to aggregate individual preferences, and the set of individuals whose preferences should count. Alternative tariff specifications and decision rules are explored, and future research directions are proposed.&lt;/p&gt;
 </description>
     </item>
@@ -30,10 +35,7 @@
       <link>https://bitowaqr.github.io/project/scaling/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/scaling/</guid>
-      <description>
-
-&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
-
+      <description>&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
 &lt;p&gt;The time trade-off (TTO) method is widely used to elicit individual preferences over (EQ-5D 3L, 5L, and Y) health states. Resulting utility values, measured on a scale that is anchored at full health and dead, are commonly aggregated across individuals, in order to derive a social value set. Here, we argue that this aggregation procedure is problematic, because it fails to take into account that TTO utility values are not only determined by an individual’s preference for the quality, but also for the quantity of life. As a consequence, when health state utilities are aggregated across different individuals, individuals with a wider range of utility values have – simply for arithmetic reasons – more weight in the estimation of the social value set. Inspired by relative utilitarianism, we propose an alternative aggregation procedure, to equalise individuals’ weights in the estimation of social health state values. We apply the alternative procedure to an EQ-5D 3L data set and compare the results against the conventional social tariff.&lt;/p&gt;
 </description>
     </item>
@@ -43,12 +45,8 @@
       <link>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</link>
       <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/optimising-parkrun-participation-/</guid>
-      <description>
-
-&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
-
+      <description>&lt;h5 id=&#34;summary&#34;&gt;Summary&lt;/h5&gt;
 &lt;p&gt;parkrun is an international movement which organises free weekly 5km running events. It has been widely praised for encouraging inactive individuals to participate in physical activity. Recently, parkrun received funding to establish 200 new events across England, specifically targeted at deprived communities. This project aims to support the parkrun&amp;rsquo;s extension.&lt;/p&gt;
-
 &lt;p&gt;We conducted ecological spatial analyses, using data on 455 parkrun events, 2,842 public green spaces, and 32,844 English census areas. Poisson regression was applied to investigate the relationships between the distances to events, index of multiple deprivation, and other area characteristics, and parkrun participation rates. We ran a location-allocation analysis, to identify optimal locations for future events, and developed an interactice online map to explore the results.&lt;/p&gt;
 </description>
     </item>
@@ -58,47 +56,32 @@
       <link>https://bitowaqr.github.io/project/dutch-flu-trend/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/dutch-flu-trend/</guid>
-      <description>
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Schneider PP&lt;sup&gt;1,2&lt;/sup&gt;, van Gool CJAW&lt;sup&gt;3&lt;/sup&gt;, Spreeuwenberg P&lt;sup&gt;4&lt;/sup&gt;, Hooiveld M&lt;sup&gt;4&lt;/sup&gt;, Donker GA&lt;sup&gt;4&lt;/sup&gt;, Barnett DJ&lt;sup&gt;1&lt;/sup&gt;, Paget J&lt;sup&gt;4&lt;/sup&gt;.
-&lt;p&gt;&lt;small&gt;
-&lt;sup&gt;1&lt;/sup&gt; Faculty of Health, Medicine and Life Sciences, Maastricht University;
-&lt;sup&gt;2&lt;/sup&gt; School of Health and Related Research, University of Sheffield;
-&lt;sup&gt;3&lt;/sup&gt; Nivel (Netherlands Institute of Health Service Research);&lt;br /&gt;
-&lt;sup&gt;4&lt;/sup&gt; School CAPHRI, Maastricht University
-&lt;/p&gt;&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Schneider PP&lt;!-- raw HTML omitted --&gt;1,2&lt;!-- raw HTML omitted --&gt;, van Gool CJAW&lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt;, Spreeuwenberg P&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Hooiveld M&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Donker GA&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Barnett DJ&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;, Paget J&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h5 id=&#34;in-the-first-stage-of-the-project-i-investigated-whether-wikipedia-page-views-were-correlated-with-the-incidence-of-influenza-in-several-countries-around-the-world&#34;&gt;In the first stage of the project, I investigated whether Wikipedia page views were correlated with the incidence of influenza in several countries around the world.&lt;/h5&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/projectflutrend/pft&#34; target=&#34;_blank&#34;&gt;Code and data repository&lt;/a&gt;&lt;strong&gt;[Deprecated!]&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/projectflutrend/pft&#34;&gt;Code and data repository&lt;/a&gt;&lt;strong&gt;[Deprecated!]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;
 &lt;h5 id=&#34;subsequently-i-included-google-search-queries-and-used-several-statical-learning-techniques-to-estimate-the-incidence-of-influenza-in-germany-in-near-real-time&#34;&gt;Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.&lt;/h5&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2/raw/master/weon.jpg&#34; target=&#34;_blank&#34;&gt;Conference poster for WEON 2018&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://projectflutrend.github.io/&#34; target=&#34;_blank&#34;&gt;A tutorial on digital epidemiology in R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2&#34; target=&#34;_blank&#34;&gt;Data &amp;amp; code repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2/raw/master/weon.jpg&#34;&gt;Conference poster for WEON 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://projectflutrend.github.io/&#34;&gt;A tutorial on digital epidemiology in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2&#34;&gt;Data &amp;amp; code repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
+&lt;!-- raw HTML omitted --&gt;
 &lt;h5 id=&#34;finally-we-piloted-the-method-during-the-2017-2018-influenza-like-illness-epidemic-in-the-netherlands&#34;&gt;Finally, we piloted the method during the 2017-2018 influenza-like illness epidemic in the Netherlands.&lt;/h5&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;: Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. &lt;a href=&#34;https://doi.org/10.1101/440867&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/440867&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Publication: tbc&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Preprint&lt;/strong&gt;: Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. &lt;a href=&#34;https://doi.org/10.1101/440867&#34;&gt;https://doi.org/10.1101/440867&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publication: tbc&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -107,24 +90,14 @@
       <link>https://bitowaqr.github.io/project/cost-trajectories/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/cost-trajectories/</guid>
-      <description>
-
-&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;abstract&#34;&gt;Abstract&lt;/h4&gt;
 &lt;h5 id=&#34;objective&#34;&gt;Objective&lt;/h5&gt;
-
 &lt;p&gt;In breast cancer patients, treatment at the end of life accounts for a major share of medical spending. However, little is known about the variability of cost trajectories between patients. This study aims to identify underlying latent groups of advanced breast cancer patients with similar cost trajectories over the last year before death.&lt;/p&gt;
-
 &lt;h5 id=&#34;methods&#34;&gt;Methods&lt;/h5&gt;
-
 &lt;p&gt;Data from deceased advanced breast cancer patients, diagnosed between 2010 and 2017, were retrieved from the Southeast Netherlands Advanced Breast Cancer (SONABRE) Registry. Costs of hospital care over the last twelve months before death were analyzed, and the variability of longitudinal patterns between patients were explored using group-based trajectory modeling. Descriptive statistics and multinomial logistic regression were applied to investigate differences between the identified latent groups.&lt;/p&gt;
-
 &lt;h5 id=&#34;results&#34;&gt;Results&lt;/h5&gt;
-
 &lt;p&gt;We included 558 patients. Over the last twelve months before death, mean hospital costs were €2,255 (SD = €492) per month. Costs increased over the last five months and reached a maximum of €3,614 in the last month of life, driven by hospital admissions, while spending for medication declined over the last three months of life. Based on patients’ individual cost trajectories, we identified six latent groups with distinct longitudinal patterns, of which only two showed a marked increase in costs over the last twelve months before death. Latent groups were constituted of heterogeneous patients, and clinical characteristics explained membership only to a limited extent.&lt;/p&gt;
-
 &lt;h5 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h5&gt;
-
 &lt;p&gt;The average costs of advanced breast cancer patients increased towards the end of life. However, we uncovered several latent groups of patients with divergent cost trajectories, which did not reflect the overall increasing trend. The mechanisms underlying the variability in cost trajectories warrants further research.&lt;/p&gt;
 </description>
     </item>
@@ -134,10 +107,7 @@
       <link>https://bitowaqr.github.io/project/fitbitr/</link>
       <pubDate>Sat, 04 Dec 2010 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/fitbitr/</guid>
-      <description>
-
-&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
-
+      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
 &lt;p&gt;A R tutorial on how to access your personal fitbit data and analyse your sleeping patterns.&lt;/p&gt;
 </description>
     </item>
