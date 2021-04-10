@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rshinyhta | </title>
+    <link>https://bitowaqr.github.io/rshinyhta/</link>
+      <atom:link href="https://bitowaqr.github.io/rshinyhta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rshinyhta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2021</copyright><lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bitowaqr.github.io/img/icon-192.png</url>
+      <title>Rshinyhta</title>
+      <link>https://bitowaqr.github.io/rshinyhta/</link>
+    </image>
+    
+    <item>
+      <title>SADM-MK2</title>
+      <link>https://bitowaqr.github.io/rshinyhta/sadm_mk2/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/sadm_mk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHO - Cost of FGM</title>
+      <link>https://bitowaqr.github.io/rshinyhta/who_fgm/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/who_fgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making health economic models shiny</title>
+      <link>https://bitowaqr.github.io/rshinyhta/mhems/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/mhems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making health economic models shiny - Github Repo</title>
+      <link>https://bitowaqr.github.io/rshinyhta/mhems_repo/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/mhems_repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speedy 5S Markov</title>
+      <link>https://bitowaqr.github.io/rshinyhta/s5markov/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/s5markov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hervis</title>
+      <link>https://bitowaqr.github.io/rshinyhta/hervis/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/hervis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to R online course web page (#R4ScHARR)</title>
+      <link>https://bitowaqr.github.io/rshinyhta/r4scharr/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/r4scharr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling and Shiny in R online course</title>
+      <link>https://bitowaqr.github.io/rshinyhta/emsr_course/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/emsr_course/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

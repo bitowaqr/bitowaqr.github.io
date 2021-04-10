@@ -5,7 +5,7 @@
     <link>https://bitowaqr.github.io/</link>
       <atom:link href="https://bitowaqr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2020</copyright><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2021</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title></title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Phdprojects</title>
+      <link>https://bitowaqr.github.io/phdprojects/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/phdprojects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://bitowaqr.github.io/project/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Phdprojects</title>
-      <link>https://bitowaqr.github.io/phdprojects/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/phdprojects/</guid>
+      <title>Rshinyhta</title>
+      <link>https://bitowaqr.github.io/rshinyhta/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/rshinyhta/</guid>
       <description></description>
     </item>
     
