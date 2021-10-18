@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | </title>
+    <title>Projects | Paul Schneider</title>
     <link>https://bitowaqr.github.io/project/</link>
       <atom:link href="https://bitowaqr.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
@@ -45,22 +45,27 @@
       <link>https://bitowaqr.github.io/project/dutch-flu-trend/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/project/dutch-flu-trend/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Schneider PP&lt;!-- raw HTML omitted --&gt;1,2&lt;!-- raw HTML omitted --&gt;, van Gool CJAW&lt;!-- raw HTML omitted --&gt;3&lt;!-- raw HTML omitted --&gt;, Spreeuwenberg P&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Hooiveld M&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Donker GA&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, Barnett DJ&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt;, Paget J&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;br&gt;
+&lt;p&gt;Schneider PP&lt;sup&gt;1,2&lt;/sup&gt;, van Gool CJAW&lt;sup&gt;3&lt;/sup&gt;, Spreeuwenberg P&lt;sup&gt;4&lt;/sup&gt;, Hooiveld M&lt;sup&gt;4&lt;/sup&gt;, Donker GA&lt;sup&gt;4&lt;/sup&gt;, Barnett DJ&lt;sup&gt;1&lt;/sup&gt;, Paget J&lt;sup&gt;4&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;
+&lt;sup&gt;1&lt;/sup&gt; Faculty of Health, Medicine and Life Sciences, Maastricht University; 
+&lt;sup&gt;2&lt;/sup&gt; School of Health and Related Research, University of Sheffield; 
+&lt;sup&gt;3&lt;/sup&gt; Nivel (Netherlands Institute of Health Service Research);  
+&lt;sup&gt;4&lt;/sup&gt; School CAPHRI, Maastricht University
+&lt;/p&gt;&lt;/small&gt;
+&lt;br&gt;
 &lt;h5 id=&#34;in-the-first-stage-of-the-project-i-investigated-whether-wikipedia-page-views-were-correlated-with-the-incidence-of-influenza-in-several-countries-around-the-world&#34;&gt;In the first stage of the project, I investigated whether Wikipedia page views were correlated with the incidence of influenza in several countries around the world.&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/projectflutrend/pft&#34;&gt;Code and data repository&lt;/a&gt;&lt;strong&gt;[Deprecated!]&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br&gt; 
 &lt;h5 id=&#34;subsequently-i-included-google-search-queries-and-used-several-statical-learning-techniques-to-estimate-the-incidence-of-influenza-in-germany-in-near-real-time&#34;&gt;Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2/raw/master/weon.jpg&#34;&gt;Conference poster for WEON 2018&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://projectflutrend.github.io/&#34;&gt;A tutorial on digital epidemiology in R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2&#34;&gt;Data &amp;amp; code repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;br&gt;
 &lt;h5 id=&#34;finally-we-piloted-the-method-during-the-2017-2018-influenza-like-illness-epidemic-in-the-netherlands&#34;&gt;Finally, we piloted the method during the 2017-2018 influenza-like illness epidemic in the Netherlands.&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -70,7 +75,7 @@
 &lt;p&gt;Publication: tbc&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+  &lt;br&gt;
 </description>
     </item>
     
