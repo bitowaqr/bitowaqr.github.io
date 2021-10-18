@@ -5,12 +5,20 @@
     <link>https://bitowaqr.github.io/phdprojects/</link>
       <atom:link href="https://bitowaqr.github.io/phdprojects/index.xml" rel="self" type="application/rss+xml" />
     <description>Phdprojects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2021</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paul Schneider 2021 (last update: 18 October 2021)</copyright><lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/img/icon-192.png</url>
       <title>Phdprojects</title>
       <link>https://bitowaqr.github.io/phdprojects/</link>
     </image>
+    
+    <item>
+      <title>OPUF - Online Elicitation of Personal Utility Functions</title>
+      <link>https://bitowaqr.github.io/phdprojects/opuf/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/phdprojects/opuf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the unethical implications of &#39;States Worse Than Dead&#39;</title>
